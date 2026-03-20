@@ -1,7 +1,7 @@
 
 # SELF INTRODUCTION 
 
-Namw : Ayush Jha  
+Name : Ayush Jha  
 
 Reg.no : 23BCE10592
 
